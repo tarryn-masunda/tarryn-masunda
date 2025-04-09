@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tarryn</h1>
 <h2 align="center">✨ Tech Explorer | 🧩 Problem Solver | 🎯 Vision-Driven Creator</h2>
-<h3 align="center">&lt; Web Application Developer /&gt;</h3>
+<h3 align="center">
+  Web Application Developer 
+</h3>
 
 <p align="center">
 Let’s connect and create something inspiring ✨
@@ -15,7 +17,7 @@ and constantly challenging myself to grow in the tech world.
 <p align="center">
 🔐 <strong>Learning:</strong> Cybersecurity | Frontend + Backend Dev | Oracle APEX <br/>
 🎨 <strong>Obsessed with:</strong> Beautiful UI | Clean code | Meaningful experiences <br/>
-🛠️ <strong>Tech I enjoy:</strong> HTML, CSS, JavaScript, Node.js, Python, SQL
+🛠️ <strong>Tech I enjoy:</strong> HTML, CSS, JavaScript, Node.js, Python, SQL,Vue.js
 </p>
 
 <p align="center">
@@ -45,6 +47,10 @@ and constantly challenging myself to grow in the tech world.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+</a>
+
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
