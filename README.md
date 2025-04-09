@@ -1,7 +1,17 @@
 <h1 align="center">Hi :wave:, I'm Tarryn </h1>
+<h2> ✨ Tech Explorer | 🧩 Problem Solver | 🎯 Vision-Driven Creator </h2>
 <h3 align="center">' Web Application Developer </>'</h3>
-<h3 align="center">Lets Connect!:</h3>
-<p align="center">
+<h3 align="center">
+Let’s connect and create something inspiring ✨:</h3>
+<p align="center"
+
+Currently building my skills in cybersecurity, UX/UI, and full-stack development.  
+I’m passionate about designing user-centered solutions, blending creativity with logic, and constantly challenging myself to grow in the tech world.
+
+🔐 Learning: Cybersecurity | Frontend + Backend Dev | Oracle APEX  
+🎨 Obsessed with: Beautiful UI | Clean code | Meaningful experiences  
+🛠️ Tech I enjoy: HTML, CSS, JavaScript, Node.js, Python, SQL>  
+
 <a href="https://www.behance.net/keananoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="keananoliver" height="30" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
